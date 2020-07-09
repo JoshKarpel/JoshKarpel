@@ -1,4 +1,5 @@
-### Hi there 👋
+> Your scientists were so preoccupied with whether they could, they didn't stop to think if they should.
+
 
 <!--
 **JoshKarpel/JoshKarpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
