@@ -1,5 +1,4 @@
-> Your scientists were so preoccupied with whether they could, they didn't stop to think if they should.
-
+I didn't know what to put here, so I put a note explaining how I didn't know what to put here.
 
 <!--
 **JoshKarpel/JoshKarpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
