@@ -1,6 +1,7 @@
 ### Hello World!
 
-![banner](https://github.com/JoshKarpel/JoshKarpel/static/banner.png)
+<img src="https://github.com/JoshKarpel/JoshKarpel/raw/master/static/banner.png" alt="Banner"
+	title="Banner" width="100%" />
 
 I'm Josh Karpel. 
 I work at the 
