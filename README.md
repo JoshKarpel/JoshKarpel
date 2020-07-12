@@ -1,5 +1,7 @@
 ### Hello World!
 
+![banner](https://github.com/JoshKarpel/JoshKarpel/static/banner.png)
+
 I'm Josh Karpel. 
 I work at the 
 [Morgridge Institute for Research](https://morgridge.org/) and the [Center for High-Throughput Computing](http://chtc.cs.wisc.edu/)
