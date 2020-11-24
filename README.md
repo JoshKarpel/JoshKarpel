@@ -13,3 +13,10 @@ I also helped maintain the
 [HTCondor Python Bindings](https://htcondor.readthedocs.io/en/latest/apis/python-bindings/index.html) 
 and worked on projects like 
 [HTMap](https://htmap.readthedocs.io/en/latest/).
+
+#### Interests
+
+- :snake: Python
+- :crab: Rust
+- :microscope: Testing
+- :sparkles: Code Style & Quality
