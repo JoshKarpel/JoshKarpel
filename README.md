@@ -18,5 +18,7 @@ and worked on projects like
 
 - :snake: Python
 - :crab: Rust
+- :zany_face: Web Applications
+- :spider_web: Distributed Systems
 - :microscope: Testing
 - :sparkles: Code Style & Quality
