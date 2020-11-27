@@ -18,6 +18,8 @@ and worked on projects like
 
 - :snake: Python
 - :crab: Rust
+- :gem: Ruby
+-	:safety_vest: Typescript
 - :zany_face: Web Applications
 - :spider_web: Distributed Systems
 - :microscope: Testing
