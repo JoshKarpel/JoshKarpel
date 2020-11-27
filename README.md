@@ -23,7 +23,7 @@ Languages:
 -	:safety_vest: Typescript
 
 Projects:
-- ::keyboard:: Command Line Tools
+- :keyboard: Command Line Tools
 - :zany_face: Web Applications
 - :spider_web: Distributed Systems
 - :microscope: Testing
