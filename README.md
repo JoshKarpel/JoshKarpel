@@ -16,10 +16,14 @@ and worked on projects like
 
 #### Interests
 
+Languages:
 - :snake: Python
 - :crab: Rust
 - :gem: Ruby
 -	:safety_vest: Typescript
+
+Projects:
+- ::keyboard:: Command Line Tools
 - :zany_face: Web Applications
 - :spider_web: Distributed Systems
 - :microscope: Testing
