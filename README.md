@@ -6,9 +6,9 @@ I'm currently a Software Engineer in Machine Learning at [Workday](https://githu
 
 Before that, I was a postdoc at the
 [Morgridge Institute for Research](https://morgridge.org/) 
-and the
+/
 [Center for High-Throughput Computing](http://chtc.cs.wisc.edu/).
-I worked on facilitating high-throughput computing projects, particularly ones that involve machine learning, image processing, and/or Python.
+I facilitated high-throughput computing projects, particularly ones that involve machine learning, image processing, and/or Python.
 I also helped maintain the 
 [HTCondor Python Bindings](https://htcondor.readthedocs.io/en/latest/apis/python-bindings/index.html) 
 and worked on projects like 
@@ -23,8 +23,8 @@ Languages:
 -	:safety_vest: Typescript
 
 Projects:
-- :keyboard: Command Line Tools
-- :zany_face: Web Applications
+- :keyboard: Command Line Tools :arrow_forward: [dis-cli](https://github.com/JoshKarpel/dis-cli)
+- :zany_face: Web Applications :arrow_forward: [jtk.dev](https://www.jtk.dev/) | [Ⅾ𝖨𝓢𝒰𝝢𝓵Ｃ𝚶𝒟𝑬.wtf](https://www.disunicode.wtf/)
 - :spider_web: Distributed Systems
 - :microscope: Testing
 - :sparkles: Code Style & Quality
