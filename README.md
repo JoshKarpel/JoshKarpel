@@ -23,8 +23,9 @@ Languages:
 -	:safety_vest: Typescript
 
 Projects:
-- :keyboard: Command Line Tools :arrow_forward: [dis-cli](https://github.com/JoshKarpel/dis-cli)
-- :zany_face: Web Applications :arrow_forward: [jtk.dev](https://www.jtk.dev/) | [Ⅾ𝖨𝓢𝒰𝝢𝓵Ｃ𝚶𝒟𝑬.wtf](https://www.disunicode.wtf/)
+- :keyboard: Command Line Tools :point_right: [dis-cli](https://github.com/JoshKarpel/dis-cli)
+- :crystal_ball: Web Applications :point_right: [jtk.dev](https://www.jtk.dev/) | [Ⅾ𝖨𝓢𝒰𝝢𝓵Ｃ𝚶𝒟𝑬.wtf](https://www.disunicode.wtf/)
 - :spider_web: Distributed Systems
 - :microscope: Testing
 - :sparkles: Code Style & Quality
+- :zany_face: Weird Stuff :point_right: [fungoid](https://github.com/JoshKarpel/fungoid)
