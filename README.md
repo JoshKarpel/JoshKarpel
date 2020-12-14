@@ -2,7 +2,8 @@
 
 I'm [Josh Karpel](https://www.jtk.dev/)!
 
-I'm currently a Software Engineer in Machine Learning at [Workday](https://github.com/Workday).
+I'm currently a Machine Learning Engineer at [Workday](https://github.com/Workday).
+I design and develop systems for connecting ML predictions to the outside world.
 
 Before that, I was a postdoc at the
 [Morgridge Institute for Research](https://morgridge.org/) 
