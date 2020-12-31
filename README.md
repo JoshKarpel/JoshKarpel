@@ -9,11 +9,14 @@ Before that, I was a postdoc at the
 [Morgridge Institute for Research](https://morgridge.org/) 
 /
 [Center for High-Throughput Computing](http://chtc.cs.wisc.edu/).
-I facilitated high-throughput computing projects, particularly ones that involve machine learning, image processing, and/or Python.
+I facilitated high-throughput computing projects that involved machine learning, image processing, and Python.
 I also helped maintain the 
 [HTCondor Python Bindings](https://htcondor.readthedocs.io/en/latest/apis/python-bindings/index.html) 
 and worked on projects like 
 [HTMap](https://htmap.readthedocs.io/en/latest/).
+Before that, 
+I got a PhD in Physics at the University of Wisconsin-Madison in the Yavuz Group,
+working on simulating interactions between quantum systems and high-power lasers.
 
 #### Interests
 
