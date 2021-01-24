@@ -6,7 +6,7 @@ I'm [Josh Karpel](https://www.jtk.dev/)!
   <img alt="" src="https://www.genart.app/flow/rectangle.png?imageHeight=100&noiseScale=100&backgroundColor=transparent">
 </a>
 
-I'm currently a Machine Learning Engineer at [Workday](https://github.com/Workday).
+I'm currently a Software Engineer in Machine Learning at [Workday](https://github.com/Workday).
 I design and develop systems for connecting ML predictions to the outside world.
 
 Before that, I was a postdoc at the
