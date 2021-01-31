@@ -3,7 +3,7 @@
 I'm [Josh Karpel](https://www.jtk.dev/)!
 
 <a href="https://www.genart.app/flow/rectangle.png">
-  <img alt="" src="https://www.genart.app/flow/rectangle.png?imageHeight=100&imageWidth=1000&noiseScale=100">
+  <img alt="" src="https://www.genart.app/flow/rectangle.png?imageHeight=100&imageWidth=1000">
 </a>
 
 I'm currently a Software Engineer in Machine Learning at [Workday](https://github.com/Workday).
