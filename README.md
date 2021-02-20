@@ -21,19 +21,3 @@ and worked on projects like
 Before that, 
 I got a PhD in Physics at the University of Wisconsin-Madison in the Yavuz Group,
 working on simulating interactions between quantum systems and high-power lasers.
-
-#### Interests
-
-Languages:
-- :snake: Python
-- :crab: Rust
-- :gem: Ruby
--	:safety_vest: Typescript
-
-Projects:
-- :keyboard: Command Line Tools :point_right: [dis-cli](https://github.com/JoshKarpel/dis-cli)
-- :crystal_ball: Web Applications :point_right: [jtk.dev](https://www.jtk.dev/) | [Ⅾ𝖨𝓢𝒰𝝢𝓵Ｃ𝚶𝒟𝑬.wtf](https://www.disunicode.wtf/)
-- :spider_web: Distributed Systems
-- :microscope: Testing
-- :sparkles: Code Style & Quality
-- :zany_face: Weird Stuff :point_right: [fungoid](https://github.com/JoshKarpel/fungoid)
