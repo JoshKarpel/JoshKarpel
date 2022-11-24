@@ -27,7 +27,3 @@ I got a PhD in Physics at the University of Wisconsin-Madison in the
 [Yavuz Group](https://yavuzlab.physics.wisc.edu/index.html),
 working on simulating interactions between
 [quantum systems and high-power lasers](https://doi.org/10.1364/OE.27.034154).
-
-<a href="https://www.genart.app">
-  <img alt="GenArt" src="https://www.genart.app/flow/rectangle.png?imageHeight=100&imageWidth=1000">
-</a>
