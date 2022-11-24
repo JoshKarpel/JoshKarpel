@@ -27,3 +27,5 @@ I got a PhD in Physics at the University of Wisconsin-Madison in the
 [Yavuz Group](https://yavuzlab.physics.wisc.edu/index.html),
 working on simulating interactions between
 [quantum systems and high-power lasers](https://doi.org/10.1364/OE.27.034154).
+
+I'm on <a rel="me" href="https://fosstodon.org/@joshkarpel">Mastodon</a>.
