@@ -11,7 +11,7 @@ Interests:
 - 🕸️ Distributed Systems
 
 I'm currently a Software Engineer in Machine Learning at [Workday](https://github.com/Workday).
-I design and develop systems for building machine learning models and connecting them to the outside world.
+I design and develop systems for serving machine learning models.
 
 Before that, I was a postdoc at the
 [Morgridge Institute for Research](https://morgridge.org/) 
